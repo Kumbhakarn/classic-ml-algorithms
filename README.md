@@ -1,10 +1,3 @@
-Absolutely, Akash! Here's a professional and clean **`README.md`** template tailored for your project **`ml-algorithms-explained`**, which includes both **EDA** and **core ML algorithms** (from scratch and with libraries).
-
----
-
-## ✅ README.md for `ml-algorithms-explained`
-
-```markdown
 # 📘 Machine Learning Algorithms Explained
 
 A comprehensive and hands-on guide to understanding core machine learning algorithms. This project includes:
@@ -15,11 +8,8 @@ A comprehensive and hands-on guide to understanding core machine learning algori
 - ✅ Evaluation metrics and visualizations
 - ✅ Clean, modular code for learning and reuse
 
----
 
 ## 📂 Project Structure
-
-```
 
 ml-algorithms-explained/
 │
@@ -31,9 +21,6 @@ ml-algorithms-explained/
 ├── environment.yml       # Conda environment file
 └── README.md             # This file
 
-````
-
----
 
 ## 📊 Exploratory Data Analysis (EDA)
 
@@ -51,7 +38,6 @@ Before applying ML, each dataset undergoes detailed EDA:
 | Titanic       | 🔄 WIP  | Binary Classification |
 | Boston Housing| 🔲 Todo | Regression           |
 
----
 
 ## 🤖 Machine Learning Algorithms Covered
 
