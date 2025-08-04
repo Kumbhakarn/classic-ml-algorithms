@@ -20,6 +20,7 @@ ml-algorithms-explained/
 ├── utils/           # Reusable helper functions (metrics, plots, etc.)
 ├── environment.yml  # Conda environment file
 └── README.md        # This file
+```
 
 ## 📊 Exploratory Data Analysis (EDA)
 
