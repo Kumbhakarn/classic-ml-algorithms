@@ -41,18 +41,18 @@ Before applying ML, each dataset undergoes detailed EDA:
 
 ## 🤖 Machine Learning Algorithms Covered
 
-| Algorithm             | From Scratch | With Scikit-Learn |
-|-----------------------|--------------|-------------------|
-| Linear Regression      | ✅            | ✅                 |
-| Logistic Regression    | ✅            | ✅                 |
-| K-Nearest Neighbors    | ✅            | ✅                 |
-| Decision Tree          | 🔄 WIP        | ✅                 |
-| Random Forest          | 🔲 Todo       | ✅                 |
-| Naive Bayes            | 🔲 Todo       | ✅                 |
-| Support Vector Machine | 🔲 Todo       | ✅                 |
-| K-Means Clustering     | 🔲 Todo       | ✅                 |
-| Principal Component Analysis (PCA) | 🔲 Todo | ✅         |
-| Gradient Descent       | ✅            | ✅                 |
+| Algorithm             
+|-----------------------|
+| Linear Regression      
+| Logistic Regression    
+| K-Nearest Neighbors    
+| Decision Tree
+| Random Forest          
+| Naive Bayes            
+| Support Vector Machine 
+| K-Means Clustering     
+| Principal Component Analysis (PCA) 
+| Gradient Descent       
 
 ---
 
@@ -71,7 +71,7 @@ Before applying ML, each dataset undergoes detailed EDA:
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/yourusername/ml-algorithms-explained.git
+git clone https://github.com/Kumbhakarn/ml-algorithms-explained.git
 cd ml-algorithms-explained
 ````
 
