@@ -3,7 +3,7 @@
 A comprehensive and hands-on guide to understanding core machine learning algorithms. This project includes:
 
 - ✅ Exploratory Data Analysis (EDA)
-- ✅ Machine Learning models implemented **from scratch** (using NumPy)
+- ✅ Machine Learning models implemented **from scratch**
 - ✅ Equivalent implementation using **Scikit-Learn**
 - ✅ Evaluation metrics and visualizations
 - ✅ Clean, modular code for learning and reuse
