@@ -11,16 +11,15 @@ A comprehensive and hands-on guide to understanding core machine learning algori
 
 ## 📂 Project Structure
 
+```text
 ml-algorithms-explained/
-│
-├── datasets/             # Raw datasets used in EDA and ML
-├── eda/                  # Jupyter notebooks for EDA
-├── notebooks/            # ML algorithm notebooks (scratch + sklearn)
-├── src/                  # Python scripts with algorithm implementations
-├── utils/                # Reusable helper functions (metrics, plots, etc.)
-├── environment.yml       # Conda environment file
-└── README.md             # This file
-
+├── datasets/        # Raw datasets used in EDA and ML
+├── eda/             # Jupyter notebooks for EDA
+├── notebooks/       # ML algorithm notebooks (scratch + sklearn)
+├── src/             # Python scripts with algorithm implementations
+├── utils/           # Reusable helper functions (metrics, plots, etc.)
+├── environment.yml  # Conda environment file
+└── README.md        # This file
 
 ## 📊 Exploratory Data Analysis (EDA)
 
